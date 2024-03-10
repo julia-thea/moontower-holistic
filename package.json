@@ -1,0 +1,22 @@
+{
+  "name": "moontower-holistic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julia-thea/moontower-holistic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julia-thea/moontower-holistic/issues"
+  },
+  "homepage": "https://github.com/julia-thea/moontower-holistic#readme",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
