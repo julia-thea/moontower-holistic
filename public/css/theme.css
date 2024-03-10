@@ -8955,6 +8955,7 @@ img {
   --bs-btn-padding-x: calc(1rem + 1.4vw);
   --bs-btn-font-size: 1.2rem;
   --bs-btn-border-radius: 0px;
+  border-radius: 4px;
   font-size: 1rem; }
 
 .btn-soft-primary {
